@@ -1,4 +1,4 @@
-# http://newtours.demoaut.com/ automatic test with Selenium, JUnit and cucumber
+# http://newtours.demoaut.com/ automatic test with Selenium, JUnit and Cucumber
 ## Table of contents
 * [General info](#general-info)
 * [Technologies](#technologies)
